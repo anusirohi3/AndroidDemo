@@ -7,9 +7,7 @@ class A {
     }
 
     fun m2() {
-        println("stage1")
-        println("stage2")
-        println("A")
+        println("Branch B calling....")
     }
 }
 
