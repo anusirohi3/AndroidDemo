@@ -8,6 +8,7 @@ class A {
 
     fun m2() {
         println("stage2")
+       println("stage1")
     }
 }
 
